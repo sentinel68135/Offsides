@@ -5,11 +5,7 @@ The project involves collecting relevant data, such as historical game data, pla
 
 The models developed in this project will use various machine learning techniques, such as regression, classification, or neural networks, to analyze and extract patterns from the data. These models will consider factors like player performance metrics, team dynamics, match conditions, and historical trends to predict game results and assess player performance.
 
-The project may involve feature engineering, data preprocessing, model training, and evaluation to refine and optimize the predictive models. Cross-validation techniques and performance metrics will be used to assess the accuracy and effectiveness of the models.
-
-By leveraging machine learning and predictive analytics, the project aims to provide valuable insights for sports enthusiasts, coaches, and team managers. Predicting game results and player performance can assist in strategic decision-making, team selection, and overall game planning.
-
-It is important to note that the success of the project relies heavily on the availability and quality of data, as well as the chosen modeling techniques and the continuous evaluation and refinement of the models.
+The project may involve feature engineering, data preprocessing, model training, and evaluation to refine and optimize the predictive models. Cross-validation techniques and performance metrics will be used to assess the accuracy and effectiveness of the models.By leveraging machine learning and predictive analytics, the project aims to provide valuable insights for sports enthusiasts.
 
 ### Current Status
 The current status of the project is scraping `FBREF` website and it allows retrieving all players from a specific team and examining their statistics. This functionality provides a solid foundation for further analysis and modeling.
